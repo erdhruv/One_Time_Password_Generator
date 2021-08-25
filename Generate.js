@@ -1,6 +1,7 @@
 var btnTranslate = document.querySelector("#btn-generate");
 var outputDiv    = document.querySelector("#Results");
 
+console.log(btnTranslate);
 
 function generateOTP() {
     console.log("hello");
